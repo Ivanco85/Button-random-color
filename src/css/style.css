@@ -17,7 +17,15 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 50vh;
+    flex-direction: column;
+    margin-top: 25vh;
+}
+
+.hex-number {
+    margin-bottom: 25vh;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    font-weight:700;
 }
 
 .button {
